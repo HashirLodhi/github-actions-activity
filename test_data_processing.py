@@ -9,5 +9,3 @@ def test_add_numbers():
 def test_multiply_numbers():
     assert multiply_numbers(2, 3) == 6
     assert multiply_numbers(0, 3) == 0
-
-    
